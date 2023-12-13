@@ -1,5 +1,6 @@
-# Javascript
-## Como rodar os testes
+Para a resolução desse desafio, optou-se pela utilização da linguagem JavaScript.
+
+## Para rodar os testes
 
 No terminal, execute os comandos:
 
